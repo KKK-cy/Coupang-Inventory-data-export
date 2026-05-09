@@ -1,0 +1,28 @@
+{
+  "projects": [
+    {
+      "project_name": "YAS1",
+      "host": "172.27.240.135",
+      "port": 3306,
+      "user": "readonly",
+      "password": "1IfKRdUHsjfl6bCo",
+      "database": "wms",
+      "table": "t_inventory_bin",
+      "batch_size": 10000,
+      "batch_key": "id",
+      "keep_excel": false
+    },
+	{
+      "project_name": "YAS1",
+      "host": "172.27.240.135",
+      "port": 3306,
+      "user": "readonly",
+      "password": "1IfKRdUHsjfl6bCo",
+      "database": "wms",
+      "table": "t_inventory_bin",
+      "batch_size": 10000,
+      "batch_key": "id",
+      "keep_excel": false
+    }
+  ]
+}
